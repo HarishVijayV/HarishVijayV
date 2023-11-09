@@ -53,7 +53,7 @@ I'm always up for a fun conversation, so don't hesitate to reach out! 🚀
     </p>
 </details>
         <h4>Show your Support🤝🏽</h3>
-        <a href="https://www.buymeacoffee.com/mithindev"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me by buying me a coffee" /> <a/>
+        <a href="https://www.buymeacoffee.com/harishvija3"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me by buying me a coffee" /> <a/>
         <br/>
        </p>
     </td>
