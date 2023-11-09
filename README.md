@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Harish Vijay V</h1>
 <h3 align="center">A passionate developer from India</h3>
 
->//here add image so that u get it in right side//<
+<!--//here add image so that u get it in right side//-->
 
 <table>
   <tr>
