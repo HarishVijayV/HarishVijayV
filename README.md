@@ -58,7 +58,7 @@ I'm always up for a fun conversation, so don't hesitate to reach out! 🚀
        </p>
     </td>
     <td>
-      <a href="https://app.daily.dev/dunsinCodes"><img src="https://api.daily.dev/devcards/91961cb74dcd470b9b4e94bd643cefa8.png?r=igy" width="400" alt="Mithin's Dev Card"/></a>
+      <!--<a href="https://app.daily.dev/dunsinCodes"><img src="https://api.daily.dev/devcards/91961cb74dcd470b9b4e94bd643cefa8.png?r=igy" width="400" alt="Mithin's Dev Card"/></a>-->
     </td>
   </tr>
 </table>
