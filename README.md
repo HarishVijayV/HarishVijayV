@@ -52,8 +52,6 @@ I'm always up for a fun conversation, so don't hesitate to reach out! 🚀
         <a href="#"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
     </p>
 </details>
-
-
         <h4>Show your Support🤝🏽</h3>
         <a href="https://www.buymeacoffee.com/mithindev"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me by buying me a coffee" /> <a/>
         <br/>
