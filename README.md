@@ -82,7 +82,7 @@ I'm always up for a fun conversation, so don't hesitate to reach out! 🚀
  ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:** ️<table>
   <tr>
     <td>
-      <a href="https://github.com/mithindev"><img alt="Mithin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mithindev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
+      <a href="https://github.com/mithindev"><img alt="Mithin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HarishVijayV&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
     </td>
     <td>
       <a href="https://github.com/mithindev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mithindev&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
