@@ -26,8 +26,8 @@ I'm madly deeply passionate about:
 - 🌿 Open Source, and much more!
 
 
-Feel free to reach out to me at [✉️](mailto:mithindev1@gmail.com).
-<br>I also enjoy writing technical content, which you can find on my blog [here](https://mithin.hashnode.dev) 📝.
+Feel free to reach out to me at [✉️](mailto:harishvijay20042004@gmail.com).
+
 
 I'm always up for a fun conversation, so don't hesitate to reach out! 🚀
 
