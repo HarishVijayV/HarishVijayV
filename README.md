@@ -54,20 +54,7 @@ I'm always up for a fun conversation, so don't hesitate to reach out! 🚀
     </p>
 </details>
 
-<details>
-    <summary> 💪 <b> Latest Blogs 📅 </b></summary>
-    <h4>Latest Blog Posts ✍️</h4>
-    <ul>
-        <li><a href="https://mithin.hashnode.dev/from-classroom-to-open-source">🌐 From Classroom to Open Source</a></li>
-        <li><a href="https://mithin.hashnode.dev/can-you-explain-the-difference-between-chatgpt-and-bard">🤖 ChatGPT v / s 🎭 BARD</a></li>
-        <li><a href="https://mithin.hashnode.dev/master-the-five-sorting-algorithms-in-5-minutes-a-day">🧙‍♂️ Master THE FIVE SORTING ALGORITHMS</a></li>
-        <li><a href="https://mithin.hashnode.dev/a-guide-for-writing-effective-git-commit-messages">📝 A Guide for Writing Effective Git Commit Messages</a></li>
-        <li><a href="https://mithin.hashnode.dev/embracing-the-impact-preparing-for-the-transformation-of-jobs-in-the-ai-era">🦾 Preparing for AI-era job transformation</a></li>
-        <li><a href="https://mithin.hashnode.dev/things-you-need-to-know-about-devops">👨‍💻 Things you need to know about DevOps</a></li>
-        <li><a href="https://mithin.hashnode.dev/series/java-oops">🍢 Series: OOPS in Java</a></li>
-    </ul>
-    <p>➡️ <a href="https://mithin.hashnode.dev/">More blog posts 👆</a></p>
-</details>
+
         <h4>Show your Support🤝🏽</h3>
         <a href="https://www.buymeacoffee.com/mithindev"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me by buying me a coffee" /> <a/>
         <br/>
