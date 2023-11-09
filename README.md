@@ -62,7 +62,7 @@ I'm always up for a fun conversation, so don't hesitate to reach out! 🚀
     </td>
   </tr>
 </table>
-
+<!--
  ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:** ️<table>
   <tr>
     <td>
@@ -76,6 +76,9 @@ I'm always up for a fun conversation, so don't hesitate to reach out! 🚀
     </td>
   </tr>
 </table>
+
+-->
+
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Let's connect:** ️
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishvijay20042004@gmail.com)
