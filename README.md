@@ -104,7 +104,7 @@ I'm always up for a fun conversation, so don't hesitate to reach out! 🚀
 
 ## 🧑‍💻 Leetcode Stats
 <p align="center">
-  <img  src="https://leetcard.jacoblin.cool/mithindev?theme=dark&font=ABeeZee&ext=heatmap"/>
+  <img  src="https://leetcard.jacoblin.cool/Harishvijay?theme=dark&font=ABeeZee&ext=heatmap"/>
 </p>
 
 [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D20032%26project%3D%26in%3D0)](https://codetime.dev)
