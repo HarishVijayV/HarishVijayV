@@ -39,6 +39,8 @@ I'm always up for a fun conversation, so don't hesitate to reach out! 🚀
         <a href="#"><img src="https://img.shields.io/badge/C-777BB4?style=for-the-badge&logo=C&logoColor=white" alt="C" /></a>
         <a href="#"><img src="https://img.shields.io/badge/Matlab-000000?style=for-the-badge&logo=matlab&logoColor=white" alt="Matlab" /></a>
     </p>
+
+  <!--
     <p>Backend frameworks:</p>
     <p>
         <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
@@ -51,6 +53,12 @@ I'm always up for a fun conversation, so don't hesitate to reach out! 🚀
     <p>
         <a href="#"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
     </p>
+  
+  
+  -->
+
+
+  
 </details>
         <h4>Show your Support🤝🏽</h3>
         <a href="https://www.buymeacoffee.com/harishvija3"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me by buying me a coffee" /> <a/>
