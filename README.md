@@ -1,34 +1,34 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Harish Vijay V</h1>
-<h3 align="center">A passionate developer from India</h3> 
+<h3 align="center">An enthusiastic coder hailing from India.</h3> 
 
-<!--//here add image so that u get it in right side//-->
+
 
 <table>
   <tr>
     <td valign="center">
      <!-- <a href="https://mithindev.vercel.app/"> -->
-        <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a> <br/>
+        <!-- <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a> <br/>-->
       <p>
         <h3>Hello👋🏾</h3>
 
-🍃 I develop beautiful websites and AI applications!
+🌐 I enjoy working on various projects, including websites and AI applications!
 
 #### My Interests
-I'm madly deeply passionate about:
-- 📱 App Development
-- 🌐 Web Development
-- 🤖 Machine Learning
-- 🧠 Artificial Intelligence
-- 📊 Data Science
-- 🌿 Open Source, and much more!
+
+I love:
+
+📱 Making Apps
+🌐 Creating for the Web
+🤖 Exploring Machine Learning
+🧠 Diving into AI
+📊 Playing with Data
 
 
 Feel free to reach out to me at [✉️](mailto:harishvijay20042004@gmail.com).
 
 
-I'm always up for a fun conversation, so don't hesitate to reach out! 🚀
-
+I'm open to fun chats anytime! Don't hesitate to reach out—I'm here for it! 🚀
 <details>
     <summary> 💪 <b> Click here for my skills </b></summary>
     <p>Languages:</p>
