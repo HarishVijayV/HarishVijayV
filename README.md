@@ -10,17 +10,17 @@
 ---
 
 ### Professional Profile
-I am a final-year **B.Tech Computer Science (AI)** student at Amrita Vishwa Vidyapeetham[cite: 6]. Having completed my internship at **Quantum AI Global**[cite: 8, 13], I am now expanding my expertise into modern **Fullstack Development** and scalable AI systems.
+I am a final-year **B.Tech Computer Science (AI)** student at Amrita Vishwa Vidyapeetham. Having completed my internship at **Quantum AI Global**, I am now expanding my expertise into modern **Fullstack Development** and scalable AI systems.
 
 #### Technical Focus
-* 🧪 **Advanced NLP Research:** Published author at **NAACL 2025** [cite: 17, 20, 25] and a Scopus-indexed **Springer** book chapter contributor[cite: 30].
+* 🧪 **Advanced NLP Research:** Published author at **NAACL 2025** and a Scopus-indexed **Springer** book chapter contributor.
 * 🌐 **Fullstack Journey:** Actively learning and building with **Next.js**, **React**, and **FastAPI**.
-* 🤖 **AI & ML:** Deep experience in Multimodal Deep Learning [cite: 18, 19] and Sleep Apnea detection using novel preprocessing pipelines[cite: 34, 37, 38].
+* 🤖 **AI & ML:** Deep experience in Multimodal Deep Learning and Sleep Apnea detection using novel preprocessing pipelines.
 
 ### 🚀 Tech Stack
 **AI & Machine Learning**
 <br/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> [cite: 45, 52]
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 **Web Development**
 <br/>
@@ -29,10 +29,9 @@ I am a final-year **B.Tech Computer Science (AI)** student at Amrita Vishwa Vidy
 ---
 
 ## 📊 Performance & Achievements
-* **Academic Record:** Maintaining an **8.88 CGPA**[cite: 12].
-* **Hackathon Champion:** Winner of **Nutritech** [cite: 40] and **Code4Change**[cite: 42].
-* **Competitive Coding:** Solved **200+ LeetCode** problems[cite: 43].
-* **Leadership:** Served as **AI Club Lead** at Amrita Vishwa Vidyapeetham[cite: 71].
+* **Academic Record:** Maintaining an **8.95 CGPA**.
+* **Hackathon Champion:** Winner of **Nutritech**  and **Code4Change**.
+* **Competitive Coding:** Solved **200+ LeetCode** .
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Harishvijay?theme=dark&font=ABeeZee&ext=heatmap"/>
