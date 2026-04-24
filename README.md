@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Harish Vijay V</h1>
-<h3 align="center">AI Researcher | Software Engineering Intern | B.Tech CSE (AI)</h3> 
+<h3 align="center">AI Researcher | Software Engineering | B.Tech CSE (AI)</h3> 
 
 <p align="center">
   <a href="mailto:harishvijay0204@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
