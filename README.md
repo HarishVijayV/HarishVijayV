@@ -15,7 +15,7 @@ I am a final-year **B.Tech Computer Science (AI)** student at Amrita Vishwa Vidy
 #### Technical Focus
 * 🧪 **Advanced NLP Research:** Published author at **NAACL 2025** and a Scopus-indexed **Springer** book chapter contributor.
 * 🌐 **Fullstack Journey:** Actively learning and building with **Next.js**, **React**, and **FastAPI**.
-* 🤖 **AI & ML:** Deep experience in Multimodal Deep Learning and Sleep Apnea detection using novel preprocessing pipelines.
+* 🤖 **AI & ML:** Experience in Multimodal Deep Learning and Sleep Apnea detection using novel preprocessing pipelines.
 
 ### 🚀 Tech Stack
 **AI & Machine Learning**
