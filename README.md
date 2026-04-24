@@ -10,7 +10,7 @@
 ---
 
 ### Professional Profile
-I am a final-year **B.Tech Computer Science (AI)** student at Amrita Vishwa Vidyapeetham. Having completed my internship at **Quantum AI Global**, I am now expanding my expertise into modern **Fullstack Development** and scalable AI systems.
+I am a final-year **B.Tech Computer Science (AI)** student at Amrita Vishwa Vidyapeetham. I am now expanding my expertise into modern **Fullstack Development** and scalable AI systems.
 
 #### Technical Focus
 * 🧪 **Advanced NLP Research:** Published author at **NAACL 2025** and a Scopus-indexed **Springer** book chapter contributor.
