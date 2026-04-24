@@ -13,11 +13,11 @@
 I am a final-year **B.Tech Computer Science (AI)** student at Amrita Vishwa Vidyapeetham. I am now expanding my expertise into modern **Fullstack Development** and scalable AI systems.
 
 #### Technical Focus
-* 🧪 **Advanced NLP Research:** Published author at **NAACL 2025** and a Scopus-indexed **Springer** book chapter contributor.
-* 🌐 **Fullstack Journey:** Actively learning and building with **Next.js**, **React**, and **FastAPI**.
-* 🤖 **AI & ML:** Experience in Multimodal Deep Learning and Sleep Apnea detection using novel preprocessing pipelines.
+* **Advanced NLP Research:** Published author at **NAACL 2025** and a Scopus-indexed **Springer** book chapter contributor.
+* **Fullstack Journey:** Actively learning and building with **Next.js**, **React**, and **FastAPI**.
+* **AI & ML:** Experience in Multimodal Deep Learning and Sleep Apnea detection using novel preprocessing pipelines.
 
-### 🚀 Tech Stack
+### Tech Stack
 **AI & Machine Learning**
 <br/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -28,7 +28,7 @@ I am a final-year **B.Tech Computer Science (AI)** student at Amrita Vishwa Vidy
 
 ---
 
-## 📊 Performance & Achievements
+## Performance & Achievements
 * **Academic Record:** Maintaining an **8.95 CGPA**.
 * **Hackathon Champion:** Winner of **Nutritech**  and **Code4Change**.
 * **Competitive Coding:** Solved **200+ LeetCode** .
